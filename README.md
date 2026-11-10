@@ -1,26 +1,30 @@
-## Oiii eu sou a Bruno, sou estudante de programação e tecnologia!
-
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
+# Bruno
  
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+**Estudante de Engenharia Informática**
+ 
+Estudante de Engenharia Informática com interesse em desenvolvimento de software e resolução de problemas. Procuro continuamente aprofundar o meu conhecimento em linguagens, ferramentas e boas práticas de engenharia de software, com foco em código limpo, legível e de fácil manutenção.
+ 
+<p align="left">
+<a href="https://github.com/duarte11717?tab=followers" target="_blank">
+<img alt="Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/bruno180769?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white%22 />
+</a>
+<a href="https://github.com/duarte11717?tab=repositories&sort=stargazers" target="_blank">
+<img alt="Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bruno180769?color=d4a017&labelColor=b8860b&style=for-the-badge&logo=star&label=Estrelas&logoColor=white%22 />
+</a>
+</p>
+ 
+---
+ 
+## Competências Técnicas
+ 
+**Linguagens**
+ 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css" alt="Linguagens" />
+</p>
+ 
+**Ferramentas**
+ 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas" />
+</p>
